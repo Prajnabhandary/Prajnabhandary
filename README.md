@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Prajnabhandary/Prajnabhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prajna, I love problem solving & coding with a deep passion for technology. Detail oriented and enthusiastic Machine learning engineer, love to explore data, extract meaningful insights and solve real world problems.
 
-Here are some ideas to get you started:
+##Contributions:
+Contributed to OpenSourceCommunity's repository on improving code documentation.
+Fixed bugs and added new features to ProjectX.
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##languages and tools:
+machine learning, deep learning, data analysis, python, pytorch, tensorflow, opencv, azure, AWS etc.
+
+
+![Alt text](https://user-images.githubusercontent.com/68494604/128660445-eac307db-718e-453b-81c7-30247c5dcac6.gif)
+
+
+
