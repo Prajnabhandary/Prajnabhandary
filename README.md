@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Prajna, I love problem solving & coding with a deep passion for technology. Detail oriented and enthusiastic Machine learning engineer, love to explore data, extract meaningful insights and solve real world problems.
 
-# languages and tools:
+## languages and tools:
 machine learning, deep learning, data analysis, python, pytorch, tensorflow, opencv, azure, AWS etc.
 
 
