@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Prajna, a  Machine Learning enthusiast driven by a deep passion for technology and problem-solving. I love exploring data, extracting meaningful insights, and addressing real-world challenges. My technical toolkit includes Python, PyTorch, TensorFlow, and OpenCV, and I have experience working with Azure and AWS.
+I'm Prajna, a Machine Learning enthusiast driven by a deep passion for technology and problem-solving. I love exploring data, extracting meaningful insights, and addressing real-world challenges. My technical toolkit includes Python, PyTorch, TensorFlow, and OpenCV, Azure etc.
 
 
 
